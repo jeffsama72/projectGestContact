@@ -1,0 +1,13 @@
+.content {
+	height: 1500px;
+}
+table td{
+	border: solid black 2px;
+}
+td {
+	padding: 5px;
+}
+th {
+	border: solid blue 2px;
+	padding: 5px;
+}
